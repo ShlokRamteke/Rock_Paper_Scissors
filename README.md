@@ -2,6 +2,7 @@
 
 ## Overview
 This is one of the project present in the "The Odin Project course". IT helped me learn about Javascript, css and HTML.
+
 The Rock-Paper-Scissors Game is a classic game where the user competes against the computer in a series of rounds. The objective of the game is to win 5 rounds before the opponent. The user and the computer will make their choices by selecting either rock, paper, or scissors. The game will determine the winner based on the rules of rock-paper-scissors.
 
 
